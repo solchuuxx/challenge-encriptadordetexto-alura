@@ -20,11 +20,11 @@ Para ejecutar este proyecto en tu máquina local:
 
 1. Clona el repositorio en tu máquina:
     ```bash
-    git clone https://github.com/tu-usuario/encriptador-de-texto.git
+    git clone https://github.com/solchuuxx/challenge-encriptadordetexto-alura.git
     ```
 2. Navega hasta la carpeta del proyecto:
     ```bash
-    cd encriptador-de-texto
+    cd challenge-encriptadordetexto-alura
     ```
 3. Abre el archivo `index.html` en tu navegador preferido.
 
@@ -44,9 +44,9 @@ Para ejecutar este proyecto en tu máquina local:
 
 ## Estructura del Proyecto
 ```plaintext
-encriptador-de-texto/
+challenge-encriptadordetexto-alura/
 │
-├── index.html         # Estructura HTML del proyecto
+├── challenge.html     # Estructura HTML del proyecto
 ├── index.css          # Estilos CSS para la interfaz de usuario
 ├── script.js          # Lógica de JavaScript para el encriptador
 └── README.md          # Documentación del proyecto
